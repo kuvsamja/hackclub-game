@@ -1,7 +1,5 @@
 # Hackclub Game
 
-
-
 ### 1. Create a Virtual Environment
 
 ``` bash
@@ -27,5 +25,3 @@ pip install pygame
 ``` bash
 python main.py
 ```
-
-Enjoy playing!
